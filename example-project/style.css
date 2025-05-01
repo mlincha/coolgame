@@ -68,13 +68,13 @@ li {
 }
 
 .demo-link {
-    text-align: center;
+    text-align: right;
     margin-top: 30px;
 }
 
 .demo-button {
     display: inline-block;
-    padding: 40px 65px;
+    padding: 15px 30px;
     font-size: 1.1em;
     background: linear-gradient(135deg, #FFB6C1, #FF69B4);
     color: white;
